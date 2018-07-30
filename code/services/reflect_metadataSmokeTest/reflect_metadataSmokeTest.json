@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,reflect_metadata",
+    "logging_enabled": "false",
+    "name": "reflect_metadataSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "reflect_metadataSmokeTest.js"
+}
